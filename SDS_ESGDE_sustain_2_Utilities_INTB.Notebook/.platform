@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "SDS_ESGDE_sustain_2_Utilities_INTB"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "c0d4b17c-de4b-4dbd-9d8d-46f928ae24a0"
+  }
+}

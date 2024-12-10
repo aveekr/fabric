@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "SDS_MAEI_sustain_2_GenerateAggregateTables_INTB"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "2939acd6-8f1f-4f38-930a-29d6252fce8c"
+  }
+}

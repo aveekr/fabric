@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../SDS_MAEI_sustain_2_AnalyzeAzureEmissionsDataset_DTST.SemanticModel"
+    },
+    "byConnection": null
+  }
+}

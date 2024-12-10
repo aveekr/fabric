@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "SDS_MAEI_sustain_2_AnalyzeAzureEmissions_RPT"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "1aca6375-4ecc-4f51-84dc-26cd27e5451f"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "SDS_MAEI_sustain_2_AnalyzeAzureEmissionsDataset_DTST"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "84119223-923b-4688-b93e-1544e493a3cd"
+  }
+}

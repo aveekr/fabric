@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "SDS_MAEI_sustain_2_LoadEmissionsDataToTables_INTB"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "926838c6-92c1-4820-867c-f14aa24a67a8"
+  }
+}
